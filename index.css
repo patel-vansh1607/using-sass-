@@ -1,0 +1,17 @@
+.heading {
+  background-color: #000000;
+}
+.heading h1 {
+  color: #EEEEEE;
+}
+.heading h2 {
+  color: #4C1F7A;
+}
+.heading h3 {
+  color: #EEEEEE;
+}
+.heading p1, .heading p2, .heading p3 {
+  color: #FF8000;
+}
+
+/*# sourceMappingURL=index.css.map */
