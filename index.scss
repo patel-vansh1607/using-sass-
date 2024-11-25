@@ -1,0 +1,21 @@
+$color1: #FF8000;
+$color2: #4C1F7A;
+$color3: #219B9D;
+$color4: #EEEEEE;
+$color5: #000000;
+
+.heading{
+    background-color: $color5;
+    h1{
+        color: $color4;
+    }
+    h2{
+        color: $color2;
+    }
+    h3{
+       color: $color4; 
+    }
+    p1, p2, p3{
+        color: $color1;
+    }
+}
